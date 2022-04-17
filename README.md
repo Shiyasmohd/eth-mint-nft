@@ -1,34 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+<h1><img width ="25px" src="https://user-images.githubusercontent.com/83513144/163718029-ab8b8e4b-354c-4b55-b0e6-d6c8d5dbdf73.png"> Mint NFTs On Ethereum </h1>
+<b>How About Minting Some NFTs on Ethereum and <br/> Viewing it on OpenSea?</b> <br/>
+  [![Link](https://img.shields.io/badge/Website-Link-blue)](https://anime-gif-gallery.herokuapp.com/) 
+  
+  <img width="90%" src="https://user-images.githubusercontent.com/83513144/163719829-0b69baa5-9b06-420b-8eaa-88255a91b8a1.png">
+</div>
 
-## Getting Started
+## How To Mint NFTs ❓
 
-First, run the development server:
+1. Get your own [Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) Wallet if you don't have one already.
+2. Switch to Rinkeby Testnet
+3. Get some free eth to your wallet from [Rinkeby Faucet](https://rinkebyfaucet.com/)
+4. Go to [Minting Website] and Login using Metamask
+5. Click on Mint NFT and approve transaction on Metamask
+6. Boom! You have sucessfully minted a NFT
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Note:- The Website itself will provide a link to view your NFT on OpenSea
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Technologies Used 💻
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+  • Blockchain<br/>
+  • Ethereum<br/>
+  • Alchemy<br/>
+  • Next.js<br/>
