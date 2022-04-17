@@ -12,7 +12,7 @@
 1. Get your own [Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) Wallet if you don't have one already.
 2. Switch to Rinkeby Testnet
 3. Get some free eth to your wallet from [Rinkeby Faucet](https://rinkebyfaucet.com/)
-4. Go to [Minting Website] and Login using Metamask
+4. Go to [Minting Website](eth-mint-nft.vercel.app) and Login using Metamask
 5. Click on Mint NFT and approve transaction on Metamask
 6. Boom! You have sucessfully minted a NFT
 
