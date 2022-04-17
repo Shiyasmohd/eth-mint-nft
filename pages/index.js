@@ -5,7 +5,7 @@ import Nft from './utils/Nft.json'
 
 export default function Home() {
 
-  const CONTRACT_ADDRESS = "0xf09b4A8B3C080471a25b1C527709639CbA15D54F";
+  const CONTRACT_ADDRESS = "0xD59E38E091a85C17C5b11590B89Eee432CBBD8E3";
   const [currentAccount,setCurrentAccount] = useState('');
 
   const checkIfWalletConnected = async () =>{
