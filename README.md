@@ -23,5 +23,6 @@ Note:- The Website itself will provide a link to view your NFT on OpenSea
 
   • Blockchain<br/>
   • Ethereum<br/>
+  • NFT<br/>
   • Alchemy<br/>
   • Next.js<br/>
